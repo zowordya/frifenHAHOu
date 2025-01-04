@@ -21,3 +21,4 @@ async def on_user_leave(event: ChatMemberUpdated):
             photo=photo,
             caption=f"Тупой мудак {user.full_name} покинул чат. НЕ ждём тебя снова! 🤍"
         )
+#гит работает или как?
