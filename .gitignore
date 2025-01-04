@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+
+# IDE settings
+.idea/
+
+# Environment variables
+.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
+
+# Логи
+*.log
+
+
+# System files
+*.pyc
